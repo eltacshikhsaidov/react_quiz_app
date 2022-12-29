@@ -8,7 +8,7 @@ const Footer = () => {
     >
       Made with ♥ by{" "}
       <a
-        href="https://www.youtube.com/eltacshikhsaidov"
+        href="https://www.youtube.com/@eltacshikhsaidov"
         style={{ cursor: "pointer" }}
       >
         Eltac Shikhsaidov
